@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shawn Ma&#39;s Blog</title>
-    <link>https://ishawnma.github.io/blog/</link>
-    <description>Recent content on Shawn Ma&#39;s Blog</description>
+    <title>Life on Shawn Ma&#39;s Blog</title>
+    <link>https://ishawnma.github.io/blog/categories/life/</link>
+    <description>Recent content in Life on Shawn Ma&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 29 Jan 2021 17:16:56 +0800</lastBuildDate><atom:link href="https://ishawnma.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jan 2021 17:16:56 +0800</lastBuildDate><atom:link href="https://ishawnma.github.io/blog/categories/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daily Routine To Enrich Life</title>
       <link>https://ishawnma.github.io/blog/post/daily-routine-to-enrich-life/</link>
@@ -17,15 +17,6 @@
 时间（最受限的资源）以及意志力，自律能力，乐观的心态。
 固定的行为习惯能够提高必赢的精神能量，并且摒除消极的心态。”
 &lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://ishawnma.github.io/blog/post/hello-world/</link>
-      <pubDate>Fri, 29 Jan 2021 16:18:49 +0800</pubDate>
-      
-      <guid>https://ishawnma.github.io/blog/post/hello-world/</guid>
-      <description></description>
     </item>
     
   </channel>
