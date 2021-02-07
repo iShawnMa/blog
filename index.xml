@@ -6,7 +6,25 @@
     <description>Recent content on Shawn Ma&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Feb 2021 09:19:42 +0800</lastBuildDate><atom:link href="https://ishawnma.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Feb 2021 09:42:33 +0800</lastBuildDate><atom:link href="https://ishawnma.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何迁移 WSL 2 Docker Desktop 数据</title>
+      <link>https://ishawnma.github.io/blog/post/move-wsl2-docker-desktop-data/</link>
+      <pubDate>Sun, 07 Feb 2021 09:42:33 +0800</pubDate>
+      
+      <guid>https://ishawnma.github.io/blog/post/move-wsl2-docker-desktop-data/</guid>
+      <description>&lt;p&gt;随着日常的使用及镜像的增多，系统盘使用空间会逐渐增大，所以需要将其迁移到其它分区。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>英语中如何表示“一流”</title>
+      <link>https://ishawnma.github.io/blog/post/how-to-say-top-level-in-english/</link>
+      <pubDate>Wed, 03 Feb 2021 09:35:03 +0800</pubDate>
+      
+      <guid>https://ishawnma.github.io/blog/post/how-to-say-top-level-in-english/</guid>
+      <description>&lt;p&gt;在生活中会遇到这样的场景，需要用“一流”的英文表达来形容世界顶级公司、五星级酒店、顶尖大学等事物。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>什么是一流企业</title>
       <link>https://ishawnma.github.io/blog/post/top-class-enterprise/</link>
