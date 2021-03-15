@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Server Sent Events - Shawn Ma&#39;s Blog</title>
+  <title>望庐山瀑布 - Shawn Ma&#39;s Blog</title>
   <meta name="renderer" content="webkit" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 
@@ -16,7 +16,8 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
 
 
-<meta name="author" content="Shawn Ma" /><meta name="description" content="Server-Sent Events (SSE) 是一种服务端推送技术，通过 HTTP 连接让客户端自动接收服务端实时消息。Server-Sent Events EventSource API 已经是 W3C HTML5 标准.
+<meta name="author" content="Shawn Ma" /><meta name="description" content="日照香炉生紫烟，遥望瀑布挂前川。
+飞流直下三千尺，疑是银河落九天。
 " /><meta name="keywords" content="Shawn Ma, blog" />
 
 
@@ -27,7 +28,7 @@
 <meta name="generator" content="Hugo 0.76.5 with theme even" />
 
 
-<link rel="canonical" href="https://ishawnma.github.io/blog/post/server-sent-events/" />
+<link rel="canonical" href="https://ishawnma.github.io/blog/post/poem/libai/cataract-on-mount-lu/" />
 <link rel="apple-touch-icon" sizes="180x180" href="/blog/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/blog/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/blog/favicon-16x16.png">
@@ -40,24 +41,27 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
 
 
-<meta property="og:title" content="Server Sent Events" />
-<meta property="og:description" content="Server-Sent Events (SSE) 是一种服务端推送技术，通过 HTTP 连接让客户端自动接收服务端实时消息。Server-Sent Events EventSource API 已经是 W3C HTML5 标准." />
+<meta property="og:title" content="望庐山瀑布" />
+<meta property="og:description" content="日照香炉生紫烟，遥望瀑布挂前川。
+飞流直下三千尺，疑是银河落九天。" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://ishawnma.github.io/blog/post/server-sent-events/" />
-<meta property="article:published_time" content="2021-03-15T17:08:02+08:00" />
-<meta property="article:modified_time" content="2021-03-15T17:08:02+08:00" />
-<meta itemprop="name" content="Server Sent Events">
-<meta itemprop="description" content="Server-Sent Events (SSE) 是一种服务端推送技术，通过 HTTP 连接让客户端自动接收服务端实时消息。Server-Sent Events EventSource API 已经是 W3C HTML5 标准.">
-<meta itemprop="datePublished" content="2021-03-15T17:08:02+08:00" />
-<meta itemprop="dateModified" content="2021-03-15T17:08:02+08:00" />
-<meta itemprop="wordCount" content="350">
+<meta property="og:url" content="https://ishawnma.github.io/blog/post/poem/libai/cataract-on-mount-lu/" />
+<meta property="article:published_time" content="2021-03-15T17:53:49+08:00" />
+<meta property="article:modified_time" content="2021-03-15T17:53:49+08:00" />
+<meta itemprop="name" content="望庐山瀑布">
+<meta itemprop="description" content="日照香炉生紫烟，遥望瀑布挂前川。
+飞流直下三千尺，疑是银河落九天。">
+<meta itemprop="datePublished" content="2021-03-15T17:53:49+08:00" />
+<meta itemprop="dateModified" content="2021-03-15T17:53:49+08:00" />
+<meta itemprop="wordCount" content="549">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Server Sent Events"/>
-<meta name="twitter:description" content="Server-Sent Events (SSE) 是一种服务端推送技术，通过 HTTP 连接让客户端自动接收服务端实时消息。Server-Sent Events EventSource API 已经是 W3C HTML5 标准."/>
+<meta name="twitter:title" content="望庐山瀑布"/>
+<meta name="twitter:description" content="日照香炉生紫烟，遥望瀑布挂前川。
+飞流直下三千尺，疑是银河落九天。"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -130,13 +134,13 @@
           <article class="post">
     
     <header class="post-header">
-      <h1 class="post-title">Server Sent Events</h1>
+      <h1 class="post-title">望庐山瀑布</h1>
 
       <div class="post-meta">
         <span class="post-time"> 2021-03-15 </span>
         
-          <span class="more-meta"> 约 350 字 </span>
-          <span class="more-meta"> 预计阅读 1 分钟 </span>
+          <span class="more-meta"> 约 549 字 </span>
+          <span class="more-meta"> 预计阅读 2 分钟 </span>
         
       </div>
     </header>
@@ -148,11 +152,8 @@
   <ul>
     <li>
       <ul>
-        <li><a href="#为什么需要-sse">为什么需要 SSE？</a></li>
-        <li><a href="#优点">优点</a></li>
-        <li><a href="#优化重连">优化重连</a></li>
-        <li><a href="#应用">应用</a></li>
-        <li><a href="#参考">参考</a></li>
+        <li><a href="#cataract-on-mount-lu">Cataract on Mount Lu</a></li>
+        <li><a href="#赏析">赏析</a></li>
       </ul>
     </li>
   </ul>
@@ -160,44 +161,19 @@
   </div>
 </div>
     <div class="post-content">
-      <p>Server-Sent Events (SSE) 是一种服务端推送技术，通过 HTTP 连接让客户端自动接收服务端实时消息。Server-Sent Events EventSource API 已经是 W3C HTML5 标准.</p>
-<h2 id="为什么需要-sse">为什么需要 SSE？</h2>
-<p>对比于原生应用采用 TCP 或 UDP 进行数据传输，移动端应用要实现流式/实时网络请求，能够采取的方案不多：</p>
-<ul>
-<li>
-<p>Polling Ajax / JSONP（轮询）</p>
-</li>
-<li>
-<p>Websockets</p>
-</li>
-<li>
-<p>Flash（2020年停止更新）</p>
-</li>
-<li>
-<p>Server-Sent Events (SSE)</p>
-</li>
-</ul>
-<p>每一种都有其优缺点，但是轮询或创建过多的连接请求，websockets 需要 HTTP upgrade。</p>
-<h2 id="优点">优点</h2>
-<p>最大的优点是轻量级，使用原生 HTTP 协议，实现非常简单，默认支持断线重连。当前主流浏览器基本都支持。</p>
-<h2 id="优化重连">优化重连</h2>
-<p>EventSources 默认自动重连，但是可以根据实际需求进行优化：</p>
-<blockquote>
-<p>Send a line of retry: <milliseconds> to configure the client’s reconnection time.</p>
-</blockquote>
-<blockquote>
-<p>Send a line of id: <id> before a data line to associate an unique id with the event. The browser will keep track of that id and in case of a reconnection will add Last-Event-ID as an HTTP header to let the server be smart about what to send the client straight away.</p>
-</blockquote>
-<h2 id="应用">应用</h2>
-<ul>
-<li>实时日志监控</li>
-</ul>
-<h2 id="参考">参考</h2>
-<ul>
-<li><a href="https://www.w3.org/TR/eventsource/">https://www.w3.org/TR/eventsource/</a></li>
-<li><a href="https://fastapi.tiangolo.com/">https://fastapi.tiangolo.com/</a></li>
-<li><a href="https://www.starlette.io/">https://www.starlette.io/</a></li>
-</ul>
+      <p>日照香炉生紫烟，遥望瀑布挂前川。</p>
+<p>飞流直下三千尺，疑是银河落九天。</p>
+<h2 id="cataract-on-mount-lu">Cataract on Mount Lu</h2>
+<p>The sunlit Censer peak exhales a wreath of cloud;</p>
+<p>Like an upended stream the cataract sounds loud.</p>
+<p>Its torrent dashes down three thousand feet from high;</p>
+<p>As if the Silver River fell from azure sky.</p>
+<h2 id="赏析">赏析</h2>
+<p>原诗的第一句中一个“生”字把静止的香炉峰写得富有了灵性。许先生同样一个&quot;exhales&quot;（“散发出”或“呼出”）也将香炉峰人格化了。&ldquo;a wreath of cloud&quot;形容“紫烟”，其中名词&quot;wreath&rdquo;（“花环”），有“缭绕”以及“色彩绚丽”的生动意向。</p>
+<p>原诗第二句一个“挂”字，化动为静，呼应上文。而许先生使用动词&quot;unpended&quot;（“被倒置”）来形容远望中的瀑布像“倒挂”的飞流，译出了诗词的弦外之音和意境之美。</p>
+<p>第三句中，“飞”和“直下”描绘出瀑布飞散而降的气势。许先生译文中以&quot;dashes down&quot;作谓语，既合乎主语“倒挂的飞流”飞下的走向，又传达出瀑布凌空而落的气势。</p>
+<p>最后一句，许先生用动词&quot;fell&quot;，但为虚拟语气，把现实瀑布和想象中的银河自然地联系起来。</p>
+<p>四行诗的韵脚比较多，许先生按原诗的节奏，择用aabb尾韵。为了压好韵脚，在诗句的语序方面做了必要的调整。总之，许先生保留了原作的“形美”和“音美”，译品接近原诗的自然节奏。</p>
     </div>
 
     <div class="post-copyright">
@@ -218,13 +194,9 @@
 <footer class="post-footer">
       
       <nav class="post-nav">
-        <a class="prev" href="/blog/post/poem/libai/cataract-on-mount-lu/">
-            <i class="iconfont icon-left"></i>
-            <span class="prev-text nav-default">望庐山瀑布</span>
-            <span class="prev-text nav-mobile">上一篇</span>
-          </a>
-        <a class="next" href="/blog/post/poem/dufu/visiting-fengxian-temple-at-longmen/">
-            <span class="next-text nav-default">游龙门奉先寺</span>
+        
+        <a class="next" href="/blog/post/server-sent-events/">
+            <span class="next-text nav-default">Server Sent Events</span>
             <span class="next-text nav-mobile">下一篇</span>
             <i class="iconfont icon-right"></i>
           </a>
