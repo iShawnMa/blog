@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Businesses on Shawn Ma&#39;s Blog</title>
+    <link>https://github.com/iShawnMa/blog/business/</link>
+    <description>Recent content in Businesses on Shawn Ma&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 Dec 2021 22:38:32 +0800</lastBuildDate><atom:link href="https://github.com/iShawnMa/blog/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数据资产管理 - 概述</title>
+      <link>https://github.com/iShawnMa/blog/business/data-asset-management/intro/</link>
+      <pubDate>Sun, 05 Dec 2021 22:38:32 +0800</pubDate>
+      
+      <guid>https://github.com/iShawnMa/blog/business/data-asset-management/intro/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;数据资产&lt;/strong&gt;（Data Asset）是指由企业拥有或者控制的，能够为企业带来未来经济利益的，以物理或电子的方式记录的数据资源，如文件资料、电子数据等。在企业中，并非所有的数据都构成数据资产，&lt;strong&gt;数据资产是能够为企业产生价值的数据资源&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据资产管理&lt;/strong&gt;（DAM, Data Asset Management）是指规划、控制和提供数据及信息资产的一组业务职能，包括开发、执行和监督有关数据的计划、政策、方案、项目、流程、方法和程序，从而控制、保护、交付和提高数据资产的价值。数据资产管理需要充分融合业务、技术和管理，以确保数据资产保值增值。&lt;/p&gt;
+&lt;p&gt;数据资产管理在大数据体系中的定位（&lt;strong&gt;大数据平台 - 数据资产管理 - 数据应用&lt;/strong&gt;，位于应用和底层平台中间，处于承上启下的重要地位。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;对上支持以价值创造为导向的数据应用开发，&lt;/li&gt;
+&lt;li&gt;对下依托大数据平台实现数据全生命周期的管理。&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>全面质量管理 (Total Quality Management)</title>
+      <link>https://github.com/iShawnMa/blog/business/total-quality-management/</link>
+      <pubDate>Sun, 28 Feb 2021 09:25:12 +0800</pubDate>
+      
+      <guid>https://github.com/iShawnMa/blog/business/total-quality-management/</guid>
+      <description>&lt;p&gt;全面质量管理(Total Quality Management,TQM) 是一个组织以质量为中心，以全员参与为基础，目的在于通过让顾客满意和本组织所有成员及社会受益而达到长期成功的管理途径。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;全面质量管理是为了能够在最经济的水平上，并考虑到充分满足客户要求的条件下进行生产和提供服务，把企业各部门在研制质量、维持质量和提高质量的活动中构成为一体的一种有效体系。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>什么是一流企业</title>
+      <link>https://github.com/iShawnMa/blog/business/top-class-enterprise/</link>
+      <pubDate>Wed, 03 Feb 2021 09:19:42 +0800</pubDate>
+      
+      <guid>https://github.com/iShawnMa/blog/business/top-class-enterprise/</guid>
+      <description>&lt;p&gt;一流企业是可以永远持续无边界扩张增长的企业。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>人 - 机 - 料 - 法 - 环</title>
+      <link>https://github.com/iShawnMa/blog/business/4m1e/</link>
+      <pubDate>Thu, 28 Jan 2021 09:13:56 +0800</pubDate>
+      
+      <guid>https://github.com/iShawnMa/blog/business/4m1e/</guid>
+      <description>&lt;p&gt;人机料法环是对全面质量管理理论中的五个影响产品质量的主要因素的简称。&lt;/p&gt;
+&lt;p&gt;“4M”：人员（Man） 机器（Machine） 物料（Material） 方法（Method）&lt;/p&gt;
+&lt;p&gt;“1E”：环境（Environment）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;人：指制造产品的人员&lt;/li&gt;
+&lt;li&gt;机：指制造产品所用的设备&lt;/li&gt;
+&lt;li&gt;料：指制造产品所使用的原材料&lt;/li&gt;
+&lt;li&gt;法：指制造产品所使用的方法&lt;/li&gt;
+&lt;li&gt;环：指产品制造过程中所处的环境&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
