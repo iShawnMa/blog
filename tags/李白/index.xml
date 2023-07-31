@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>李白 on Shawn Ma&#39;s Blog</title>
-    <link>https://github.com/iShawnMa/blog/tags/%E6%9D%8E%E7%99%BD/</link>
+    <link>https://ishawnma.github.io/blog/tags/%E6%9D%8E%E7%99%BD/</link>
     <description>Recent content in 李白 on Shawn Ma&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Mar 2021 17:53:49 +0800</lastBuildDate><atom:link href="https://github.com/iShawnMa/blog/tags/%E6%9D%8E%E7%99%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 17:53:49 +0800</lastBuildDate><atom:link href="https://ishawnma.github.io/blog/tags/%E6%9D%8E%E7%99%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>望庐山瀑布</title>
-      <link>https://github.com/iShawnMa/blog/learn/poem/libai/cataract-on-mount-lu/</link>
+      <link>https://ishawnma.github.io/blog/learn/poem/libai/cataract-on-mount-lu/</link>
       <pubDate>Mon, 15 Mar 2021 17:53:49 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/learn/poem/libai/cataract-on-mount-lu/</guid>
+      <guid>https://ishawnma.github.io/blog/learn/poem/libai/cataract-on-mount-lu/</guid>
       <description>&lt;p&gt;日照香炉生紫烟，遥望瀑布挂前川。&lt;/p&gt;
 &lt;p&gt;飞流直下三千尺，疑是银河落九天。&lt;/p&gt;</description>
     </item>

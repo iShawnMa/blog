@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Teches on Shawn Ma&#39;s Blog</title>
-    <link>https://github.com/iShawnMa/blog/tech/</link>
+    <link>https://ishawnma.github.io/blog/tech/</link>
     <description>Recent content in Teches on Shawn Ma&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Dec 2021 23:04:30 +0800</lastBuildDate><atom:link href="https://github.com/iShawnMa/blog/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Dec 2021 23:04:30 +0800</lastBuildDate><atom:link href="https://ishawnma.github.io/blog/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>设计模式 - 概述</title>
-      <link>https://github.com/iShawnMa/blog/tech/design-pattern/intro/</link>
+      <link>https://ishawnma.github.io/blog/tech/design-pattern/intro/</link>
       <pubDate>Sun, 05 Dec 2021 23:04:30 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/tech/design-pattern/intro/</guid>
+      <guid>https://ishawnma.github.io/blog/tech/design-pattern/intro/</guid>
       <description>&lt;p&gt;设计模式遵循六⼤原则：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;单⼀职责( ⼀个类和⽅法只做⼀件事 )&lt;/li&gt;
@@ -26,19 +26,19 @@
     
     <item>
       <title>Server Sent Events</title>
-      <link>https://github.com/iShawnMa/blog/tech/server-sent-events/</link>
+      <link>https://ishawnma.github.io/blog/tech/server-sent-events/</link>
       <pubDate>Mon, 15 Mar 2021 17:08:02 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/tech/server-sent-events/</guid>
+      <guid>https://ishawnma.github.io/blog/tech/server-sent-events/</guid>
       <description>&lt;p&gt;Server-Sent Events (SSE) 是一种服务端推送技术，通过 HTTP 连接让客户端自动接收服务端实时消息。Server-Sent Events EventSource API 已经是 W3C HTML5 标准.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>如何迁移 WSL 2 Docker Desktop 数据</title>
-      <link>https://github.com/iShawnMa/blog/tech/move-wsl2-docker-desktop-data/</link>
+      <link>https://ishawnma.github.io/blog/tech/move-wsl2-docker-desktop-data/</link>
       <pubDate>Sun, 07 Feb 2021 09:42:33 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/tech/move-wsl2-docker-desktop-data/</guid>
+      <guid>https://ishawnma.github.io/blog/tech/move-wsl2-docker-desktop-data/</guid>
       <description>&lt;p&gt;随着日常的使用及镜像的增多，系统盘使用空间会逐渐增大，所以需要将其迁移到其它分区。&lt;/p&gt;</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Shawn Ma&#39;s Blog</title>
-    <link>https://github.com/iShawnMa/blog/</link>
+    <link>https://ishawnma.github.io/blog/</link>
     <description>Recent content on Shawn Ma&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Dec 2021 23:04:30 +0800</lastBuildDate><atom:link href="https://github.com/iShawnMa/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Dec 2021 23:04:30 +0800</lastBuildDate><atom:link href="https://ishawnma.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>设计模式 - 概述</title>
-      <link>https://github.com/iShawnMa/blog/tech/design-pattern/intro/</link>
+      <link>https://ishawnma.github.io/blog/tech/design-pattern/intro/</link>
       <pubDate>Sun, 05 Dec 2021 23:04:30 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/tech/design-pattern/intro/</guid>
+      <guid>https://ishawnma.github.io/blog/tech/design-pattern/intro/</guid>
       <description>&lt;p&gt;设计模式遵循六⼤原则：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;单⼀职责( ⼀个类和⽅法只做⼀件事 )&lt;/li&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>数据资产管理 - 概述</title>
-      <link>https://github.com/iShawnMa/blog/business/data-asset-management/intro/</link>
+      <link>https://ishawnma.github.io/blog/business/data-asset-management/intro/</link>
       <pubDate>Sun, 05 Dec 2021 22:38:32 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/business/data-asset-management/intro/</guid>
+      <guid>https://ishawnma.github.io/blog/business/data-asset-management/intro/</guid>
       <description>&lt;p&gt;&lt;strong&gt;数据资产&lt;/strong&gt;（Data Asset）是指由企业拥有或者控制的，能够为企业带来未来经济利益的，以物理或电子的方式记录的数据资源，如文件资料、电子数据等。在企业中，并非所有的数据都构成数据资产，&lt;strong&gt;数据资产是能够为企业产生价值的数据资源&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;数据资产管理&lt;/strong&gt;（DAM, Data Asset Management）是指规划、控制和提供数据及信息资产的一组业务职能，包括开发、执行和监督有关数据的计划、政策、方案、项目、流程、方法和程序，从而控制、保护、交付和提高数据资产的价值。数据资产管理需要充分融合业务、技术和管理，以确保数据资产保值增值。&lt;/p&gt;
 &lt;p&gt;数据资产管理在大数据体系中的定位（&lt;strong&gt;大数据平台 - 数据资产管理 - 数据应用&lt;/strong&gt;，位于应用和底层平台中间，处于承上启下的重要地位。&lt;/p&gt;
@@ -41,10 +41,10 @@
     
     <item>
       <title>望岳</title>
-      <link>https://github.com/iShawnMa/blog/learn/poem/dufu/gazing-on-the-peak/</link>
+      <link>https://ishawnma.github.io/blog/learn/poem/dufu/gazing-on-the-peak/</link>
       <pubDate>Sun, 05 Dec 2021 21:04:32 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/learn/poem/dufu/gazing-on-the-peak/</guid>
+      <guid>https://ishawnma.github.io/blog/learn/poem/dufu/gazing-on-the-peak/</guid>
       <description>&lt;p&gt;岱宗夫如何？齐鲁青未了。&lt;/p&gt;
 &lt;p&gt;造化钟神秀，阴阳割昏晓。&lt;/p&gt;
 &lt;p&gt;荡胸生曾云，决眦入归鸟。( 曾 同：层)&lt;/p&gt;
@@ -53,29 +53,29 @@
     
     <item>
       <title>望庐山瀑布</title>
-      <link>https://github.com/iShawnMa/blog/learn/poem/libai/cataract-on-mount-lu/</link>
+      <link>https://ishawnma.github.io/blog/learn/poem/libai/cataract-on-mount-lu/</link>
       <pubDate>Mon, 15 Mar 2021 17:53:49 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/learn/poem/libai/cataract-on-mount-lu/</guid>
+      <guid>https://ishawnma.github.io/blog/learn/poem/libai/cataract-on-mount-lu/</guid>
       <description>&lt;p&gt;日照香炉生紫烟，遥望瀑布挂前川。&lt;/p&gt;
 &lt;p&gt;飞流直下三千尺，疑是银河落九天。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Server Sent Events</title>
-      <link>https://github.com/iShawnMa/blog/tech/server-sent-events/</link>
+      <link>https://ishawnma.github.io/blog/tech/server-sent-events/</link>
       <pubDate>Mon, 15 Mar 2021 17:08:02 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/tech/server-sent-events/</guid>
+      <guid>https://ishawnma.github.io/blog/tech/server-sent-events/</guid>
       <description>&lt;p&gt;Server-Sent Events (SSE) 是一种服务端推送技术，通过 HTTP 连接让客户端自动接收服务端实时消息。Server-Sent Events EventSource API 已经是 W3C HTML5 标准.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>游龙门奉先寺</title>
-      <link>https://github.com/iShawnMa/blog/learn/poem/dufu/visiting-fengxian-temple-at-longmen/</link>
+      <link>https://ishawnma.github.io/blog/learn/poem/dufu/visiting-fengxian-temple-at-longmen/</link>
       <pubDate>Tue, 02 Mar 2021 10:48:47 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/learn/poem/dufu/visiting-fengxian-temple-at-longmen/</guid>
+      <guid>https://ishawnma.github.io/blog/learn/poem/dufu/visiting-fengxian-temple-at-longmen/</guid>
       <description>&lt;h2 id=&#34;游龙门奉先寺&#34;&gt;游龙门奉先寺&lt;/h2&gt;
 &lt;p&gt;已从招提游，更宿招提境。&lt;/p&gt;
 &lt;p&gt;阴壑生虚籁，月林散清影。&lt;/p&gt;
@@ -85,10 +85,10 @@
     
     <item>
       <title>全面质量管理 (Total Quality Management)</title>
-      <link>https://github.com/iShawnMa/blog/business/total-quality-management/</link>
+      <link>https://ishawnma.github.io/blog/business/total-quality-management/</link>
       <pubDate>Sun, 28 Feb 2021 09:25:12 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/business/total-quality-management/</guid>
+      <guid>https://ishawnma.github.io/blog/business/total-quality-management/</guid>
       <description>&lt;p&gt;全面质量管理(Total Quality Management,TQM) 是一个组织以质量为中心，以全员参与为基础，目的在于通过让顾客满意和本组织所有成员及社会受益而达到长期成功的管理途径。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;全面质量管理是为了能够在最经济的水平上，并考虑到充分满足客户要求的条件下进行生产和提供服务，把企业各部门在研制质量、维持质量和提高质量的活动中构成为一体的一种有效体系。&lt;/p&gt;
@@ -97,37 +97,37 @@
     
     <item>
       <title>如何迁移 WSL 2 Docker Desktop 数据</title>
-      <link>https://github.com/iShawnMa/blog/tech/move-wsl2-docker-desktop-data/</link>
+      <link>https://ishawnma.github.io/blog/tech/move-wsl2-docker-desktop-data/</link>
       <pubDate>Sun, 07 Feb 2021 09:42:33 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/tech/move-wsl2-docker-desktop-data/</guid>
+      <guid>https://ishawnma.github.io/blog/tech/move-wsl2-docker-desktop-data/</guid>
       <description>&lt;p&gt;随着日常的使用及镜像的增多，系统盘使用空间会逐渐增大，所以需要将其迁移到其它分区。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>英语中如何表示“一流”</title>
-      <link>https://github.com/iShawnMa/blog/learn/how-to-say-top-level-in-english/</link>
+      <link>https://ishawnma.github.io/blog/learn/how-to-say-top-level-in-english/</link>
       <pubDate>Wed, 03 Feb 2021 09:35:03 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/learn/how-to-say-top-level-in-english/</guid>
+      <guid>https://ishawnma.github.io/blog/learn/how-to-say-top-level-in-english/</guid>
       <description>&lt;p&gt;在生活中会遇到这样的场景，需要用“一流”的英文表达来形容世界顶级公司、五星级酒店、顶尖大学等事物。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>什么是一流企业</title>
-      <link>https://github.com/iShawnMa/blog/business/top-class-enterprise/</link>
+      <link>https://ishawnma.github.io/blog/business/top-class-enterprise/</link>
       <pubDate>Wed, 03 Feb 2021 09:19:42 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/business/top-class-enterprise/</guid>
+      <guid>https://ishawnma.github.io/blog/business/top-class-enterprise/</guid>
       <description>&lt;p&gt;一流企业是可以永远持续无边界扩张增长的企业。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Daily Routine To Enrich Life</title>
-      <link>https://github.com/iShawnMa/blog/learn/daily-routine-to-enrich-life/</link>
+      <link>https://ishawnma.github.io/blog/learn/daily-routine-to-enrich-life/</link>
       <pubDate>Fri, 29 Jan 2021 17:16:56 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/learn/daily-routine-to-enrich-life/</guid>
+      <guid>https://ishawnma.github.io/blog/learn/daily-routine-to-enrich-life/</guid>
       <description>&lt;pre&gt;&lt;code&gt;“习惯可以定义为利用有限的资源执行精准设计的方法，受限的资源包括：
 时间（最受限的资源）以及意志力，自律能力，乐观的心态。
 固定的行为习惯能够提高必赢的精神能量，并且摒除消极的心态。”
@@ -136,10 +136,10 @@
     
     <item>
       <title>人 - 机 - 料 - 法 - 环</title>
-      <link>https://github.com/iShawnMa/blog/business/4m1e/</link>
+      <link>https://ishawnma.github.io/blog/business/4m1e/</link>
       <pubDate>Thu, 28 Jan 2021 09:13:56 +0800</pubDate>
       
-      <guid>https://github.com/iShawnMa/blog/business/4m1e/</guid>
+      <guid>https://ishawnma.github.io/blog/business/4m1e/</guid>
       <description>&lt;p&gt;人机料法环是对全面质量管理理论中的五个影响产品质量的主要因素的简称。&lt;/p&gt;
 &lt;p&gt;“4M”：人员（Man） 机器（Machine） 物料（Material） 方法（Method）&lt;/p&gt;
 &lt;p&gt;“1E”：环境（Environment）&lt;/p&gt;
