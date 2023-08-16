@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>git on Shawn Ma&#39;s Blog</title>
+    <link>https://ishawnma.github.io/blog/tags/git/</link>
+    <description>Recent content in git on Shawn Ma&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Aug 2023 17:33:00 +0800</lastBuildDate><atom:link href="https://ishawnma.github.io/blog/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Change Git Remote Origin</title>
+      <link>https://ishawnma.github.io/blog/tech/git/how-to-change-git-remote-origin/</link>
+      <pubDate>Wed, 16 Aug 2023 17:33:00 +0800</pubDate>
+      
+      <guid>https://ishawnma.github.io/blog/tech/git/how-to-change-git-remote-origin/</guid>
+      <description>Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Change Git Remote URL The git remote set-url command changes an existing remote repository URL.
+The git remote set-url command takes two arguments:
+An existing remote name. For example, origin or upstream are two common choices.
+A new URL for the remote. For example:</description>
+    </item>
+    
+  </channel>
+</rss>

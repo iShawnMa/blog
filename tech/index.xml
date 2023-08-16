@@ -6,7 +6,20 @@
     <description>Recent content in Tech on Shawn Ma&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Dec 2021 23:04:30 +0800</lastBuildDate><atom:link href="https://ishawnma.github.io/blog/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Aug 2023 17:33:00 +0800</lastBuildDate><atom:link href="https://ishawnma.github.io/blog/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Change Git Remote Origin</title>
+      <link>https://ishawnma.github.io/blog/tech/git/how-to-change-git-remote-origin/</link>
+      <pubDate>Wed, 16 Aug 2023 17:33:00 +0800</pubDate>
+      
+      <guid>https://ishawnma.github.io/blog/tech/git/how-to-change-git-remote-origin/</guid>
+      <description>Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Change Git Remote URL The git remote set-url command changes an existing remote repository URL.
+The git remote set-url command takes two arguments:
+An existing remote name. For example, origin or upstream are two common choices.
+A new URL for the remote. For example:</description>
+    </item>
+    
     <item>
       <title>设计模式 - 概述</title>
       <link>https://ishawnma.github.io/blog/tech/design-pattern/intro/</link>
