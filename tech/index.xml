@@ -6,7 +6,21 @@
     <description>Recent content in Tech on Shawn Ma&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Aug 2023 17:33:00 +0800</lastBuildDate><atom:link href="https://ishawnma.github.io/blog/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Aug 2023 14:33:00 +0800</lastBuildDate><atom:link href="https://ishawnma.github.io/blog/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown 101</title>
+      <link>https://ishawnma.github.io/blog/tech/markdown/</link>
+      <pubDate>Thu, 17 Aug 2023 14:33:00 +0800</pubDate>
+      
+      <guid>https://ishawnma.github.io/blog/tech/markdown/</guid>
+      <description>Heading # Heading 1 ## Heading 2 Bold Bold
+**Bold** Code Inline Code
+`Inline Code` Code Block
+print &amp;#39;3 backticks or&amp;#39; print &amp;#39;indent 4 spaces&amp;#39; List Unordered List
+* List Item * List Item * List Item Ordered List
+1. One 2. Two 3. Three Italic *Italic* Blockquote &amp;gt; Blockquote Link [Link](http://link.com) Image ![Image](http://link.com/image.png) Horizontal Rule --- </description>
+    </item>
+    
     <item>
       <title>How To Change Git Remote Origin</title>
       <link>https://ishawnma.github.io/blog/tech/git/how-to-change-git-remote-origin/</link>

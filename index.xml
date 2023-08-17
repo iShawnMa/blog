@@ -6,7 +6,32 @@
     <description>Recent content on Shawn Ma&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Aug 2023 17:33:00 +0800</lastBuildDate><atom:link href="https://ishawnma.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Aug 2023 14:40:00 +0800</lastBuildDate><atom:link href="https://ishawnma.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023-08-17</title>
+      <link>https://ishawnma.github.io/blog/diary/2023/0817/</link>
+      <pubDate>Thu, 17 Aug 2023 14:40:00 +0800</pubDate>
+      
+      <guid>https://ishawnma.github.io/blog/diary/2023/0817/</guid>
+      <description>The Best Podcasts for Everyone Podcasts are streaming services, we can find a podcast about almost anything these days, but with great choice comes great mediocrity, we might need a helping hand to find the podcasts worthy of our ears. WIRED expertly curated list will entertain and educate you.
+https://www.wired.com/story/best-podcasts/
+Twilio Magic Discover the values that define who they are and the principles that guide how they work together to create the Twilio Magic.</description>
+    </item>
+    
+    <item>
+      <title>Markdown 101</title>
+      <link>https://ishawnma.github.io/blog/tech/markdown/</link>
+      <pubDate>Thu, 17 Aug 2023 14:33:00 +0800</pubDate>
+      
+      <guid>https://ishawnma.github.io/blog/tech/markdown/</guid>
+      <description>Heading # Heading 1 ## Heading 2 Bold Bold
+**Bold** Code Inline Code
+`Inline Code` Code Block
+print &amp;#39;3 backticks or&amp;#39; print &amp;#39;indent 4 spaces&amp;#39; List Unordered List
+* List Item * List Item * List Item Ordered List
+1. One 2. Two 3. Three Italic *Italic* Blockquote &amp;gt; Blockquote Link [Link](http://link.com) Image ![Image](http://link.com/image.png) Horizontal Rule --- </description>
+    </item>
+    
     <item>
       <title>How To Change Git Remote Origin</title>
       <link>https://ishawnma.github.io/blog/tech/git/how-to-change-git-remote-origin/</link>
